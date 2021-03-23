@@ -13,5 +13,6 @@ Bot con mas de 100 comandos y en constante actualizacion para mejor calidad de c
 ## Contribuyentes
 
 -Kawui (Dev de todo el proyecto)
+<br>
 -Toomdj01 (Aportador de memes para el comando meme)
 
