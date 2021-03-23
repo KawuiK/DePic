@@ -1,6 +1,6 @@
 ### Kawui
 
-## DePic
+#### DePic
 
 ![](https://cdn.discordapp.com/attachments/763804175510929469/813806894266974218/DePic_2.png)
 
