@@ -6,7 +6,7 @@
 
 <br>
 Uso ultra sencillo, Usa el comando &help para ver los comandos disponbles
-Invitalo para usarlo [Invitar]("https://discord.com/api/oauth2/authorize?client_id=763582048995639296&permissions=8&scope=bot")
+Invitalo para usarlo<a href="https://discord.com/api/oauth2/authorize?client_id=763582048995639296&permissions=8&scope=bot">YouTube</a>
 
 Bot con mas de 100 comandos y en constante actualizacion para mejor calidad de comandos y de todo
 
