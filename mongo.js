@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const con =
-  "mongodb+srv://DePic:Patata89@cluster0.yuatl.mongodb.net/DePic-Test?retryWrites=true&w=majority";
+  "NoXD";
 const db = mongoose.connection;
 mongoose
   .connect(con, {
