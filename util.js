@@ -11,4 +11,5 @@ module.exports = {
         let lang = require ('./languages/ES-es.json');
         return lang;
     }
+    
 }
